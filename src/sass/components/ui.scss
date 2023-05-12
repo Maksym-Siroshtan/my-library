@@ -1,0 +1,9 @@
+// Подключение всех файлов components в один для дальнейшего его использования в главном файле style
+
+@import "./button.scss";
+@import "./dropdown.scss";
+@import "./card.scss";
+@import "./modal.scss";
+@import "./tab.scss";
+@import "./accordion.scss";
+@import "./carousel.scss";

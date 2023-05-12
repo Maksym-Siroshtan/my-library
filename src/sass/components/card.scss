@@ -1,0 +1,23 @@
+.card {
+  max-width: 350px;
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+
+  &-img-pic {
+    width: 100%;
+    display: block;
+    border-radius: 4px 4px 0 0;
+  }
+  &-body {
+    padding: 15px;
+    background-color: $white;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 0 0 4px 4px;
+  }
+  &-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  &-text {
+    margin-bottom: 10px;
+  }
+}

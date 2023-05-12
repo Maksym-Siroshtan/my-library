@@ -1,0 +1,6 @@
+// Основной файл, собирающий все остальные
+@import "./general/base.scss"; // Базовые
+@import "./general/variables.scss"; // Переменные
+@import "./general/_typography.scss"; // Шрифты
+@import "./components/ui.scss"; // Компоненты(components)
+@import "./helpers/classes.scss"; // Вспомогательные(helpers)

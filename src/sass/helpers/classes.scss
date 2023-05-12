@@ -1,0 +1,8 @@
+// Подключение всех файлов helpers в один для дальнейшего его использования в главном файле style
+
+@import "./align.scss";
+@import "./display.scss";
+@import "./font.scss";
+@import "./margin.scss";
+@import "./padding.scss";
+@import "./sizes.scss";
